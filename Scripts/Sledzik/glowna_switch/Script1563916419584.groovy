@@ -28,9 +28,9 @@ WebUI.verifyElementVisible(findTestObject('Page_sledzik/Lista/switch/button_Wszy
 CustomKeywords.'com.sledzik.utils.CommonUtilities.CheckAttributeContains'(findTestObject('Page_sledzik/Lista/switch/button_Otwarte'), 
     'class', 'active')
 
-CustomKeywords.'com.sledzik.utils.CommonUtilities.CheckAttributeContains'(findTestObject('Page_sledzik/Lista/switch/button_Wszystkie'), 
+not_run: CustomKeywords.'com.sledzik.utils.CommonUtilities.CheckAttributeContains'(findTestObject('Page_sledzik/Lista/switch/button_Wszystkie'), 
     'class', 'active')
 
-CustomKeywords.'com.sledzik.utils.CommonUtilities.CheckAttributeContains'(findTestObject('Page_sledzik/Lista/switch/button_Moje'), 'class', 
-    'active')
+CustomKeywords.'com.sledzik.utils.CommonUtilities.CheckAttributeContains'(findTestObject('Page_sledzik/Lista/switch/button_Moje'), 
+    'class', 'active')
 
