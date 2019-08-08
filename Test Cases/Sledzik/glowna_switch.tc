@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>glowna_switch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d23ae141-0bcb-4f4f-a6af-f90cdc130b8e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d594de9-a982-4313-b11e-ff9c0117405d</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7279aaf7-b08a-4d57-a5d2-9bf4ce7d8782</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e030f131-6171-4c7f-8239-0682fb994a8d</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>
