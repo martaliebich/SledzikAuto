@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>filtrVerify</name>
+   <tag></tag>
+   <comment>Sprawdzam czy nie istnieją elementy przypisane do user
+Sprawdzam czy istnieją elementy przypisane do user</comment>
+   <testCaseGuid>f74bf6c9-0881-4c0b-9601-f69785cff678</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bbd5a331-5769-4a3e-a09f-b296c9d17950</id>
+      <masked>false</masked>
+      <name>sUserName</name>
+   </variable>
+</TestCaseEntity>

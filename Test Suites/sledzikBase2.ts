@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>sledzikBase</name>
+   <name>sledzikBase2</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,7 +9,7 @@
    <pageLoadTimeout>5</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>4b31e32f-b42f-4574-907b-12cc2a9d774f</testSuiteGuid>
+   <testSuiteGuid>f2c89c30-c3ce-41dc-ab73-1d81bd0119f5</testSuiteGuid>
    <testCaseLink>
       <guid>178910ba-faac-4828-8923-6ed37c9ccc2f</guid>
       <isReuseDriver>false</isReuseDriver>
@@ -17,7 +17,7 @@
       <testCaseId>Test Cases/Sledzik/caselogin</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>5328190e-b9f5-45cf-ba73-23c6d90a62e0</guid>
+      <guid>19ff2fe7-c7b2-444a-928b-ea3350dd2efe</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sledzik/sortVerify</testCaseId>
